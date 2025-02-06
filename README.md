@@ -55,7 +55,7 @@ sails lift
 O con un puerto específico:
 
 ```sh
-sails lift 
+sails lift --port 1338
 ```
 
 Luego, abre en tu navegador o postman de acuerdo a las pruebas:
